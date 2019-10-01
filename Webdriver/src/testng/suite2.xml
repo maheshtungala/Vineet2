@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="mysuite">
+<test name="myTest">
+
+<classes>
+  <class name="testng.Class2"/>
+  <class name="testng.Class3"/>
+</classes>
+
+</test>
+</suite>
